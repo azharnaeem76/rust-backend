@@ -1,0 +1,10 @@
+# Rust build output
+/backend-rust/target/
+
+# OS / editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Temp file written during saves
+*.json.tmp
